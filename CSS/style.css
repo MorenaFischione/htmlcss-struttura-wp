@@ -64,12 +64,12 @@ body {
 }
 
 .article-extremes {
-    width: 17.5%;
+    width: 18%;
 }
 
 .article-middle {
-    width: 60%;
-    margin: 0px 2.5%;
+    width: calc( 64% - 20px);
+    margin: 0px 10px;
 }
 
 .sign {
